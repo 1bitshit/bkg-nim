@@ -5,3 +5,7 @@ __pycache__/
 .claude/
 repos/
 .opencode/opencode.json
+.config/opencode/
+.config/opencode/
+config/opencode/opencode.json
+config/opencode/bin/opencode
