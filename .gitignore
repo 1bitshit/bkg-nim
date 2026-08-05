@@ -5,3 +5,5 @@ __pycache__/
 .claude/
 repos/
 .opencode/opencode.json
+.opencode/ocv-debug.log
+.opencode/viz-skin.json
