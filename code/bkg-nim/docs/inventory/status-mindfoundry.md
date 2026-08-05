@@ -1,0 +1,52 @@
+# Status — mindfoundry (48 Dateien)
+
+mindfoundry/.gitignore | FERTIG_ANALYSIERT
+mindfoundry/LICENSE | FERTIG_ANALYSIERT
+mindfoundry/Makefile | FERTIG_ANALYSIERT
+mindfoundry/README.md | FERTIG_ANALYSIERT
+mindfoundry/SUBMISSION-PACKAGE.md | FERTIG_ANALYSIERT
+mindfoundry/api/server.py | FERTIG_ANALYSIERT
+mindfoundry/data/messages/two_day_event_stream.jsonl | FERTIG_ANALYSIERT
+mindfoundry/data/policies/privacy.md | FERTIG_ANALYSIERT
+mindfoundry/data/policies/refunds.md | FERTIG_ANALYSIERT
+mindfoundry/data/policies/routing.md | FERTIG_ANALYSIERT
+mindfoundry/data/replicants/discord_memories.jsonl | FERTIG_ANALYSIERT
+mindfoundry/docs/QUICKSTART.md | FERTIG_ANALYSIERT
+mindfoundry/docs/architecture.md | FERTIG_ANALYSIERT
+mindfoundry/docs/dashboard-screenshot.png | FERTIG_ANALYSIERT
+mindfoundry/docs/demo-script.md | FERTIG_ANALYSIERT
+mindfoundry/docs/google-workspace-plan.md | FERTIG_ANALYSIERT
+mindfoundry/docs/mindfoundry-architecture.png | FERTIG_ANALYSIERT
+mindfoundry/docs/mindfoundry-architecture.svg | FERTIG_ANALYSIERT
+mindfoundry/docs/mindfoundry-preview.png | FERTIG_ANALYSIERT
+mindfoundry/docs/mindfoundry-preview.svg | FERTIG_ANALYSIERT
+mindfoundry/docs/nvidia-tools-used.md | FERTIG_ANALYSIERT
+mindfoundry/docs/openshell-policy-neemo-lodge.yaml | FERTIG_ANALYSIERT
+mindfoundry/docs/product-description.md | FERTIG_ANALYSIERT
+mindfoundry/docs/test-cases/hotel-sim.md | FERTIG_ANALYSIERT
+mindfoundry/hotel_sim/evaluate.py | FERTIG_ANALYSIERT
+mindfoundry/hotel_sim/generate.py | FERTIG_ANALYSIERT
+mindfoundry/hotel_sim/live_ops.py | FERTIG_ANALYSIERT
+mindfoundry/hotel_sim/policy_gate.py | FERTIG_ANALYSIERT
+mindfoundry/hotel_sim/replicants.py | FERTIG_ANALYSIERT
+mindfoundry/reports/.gitkeep | FERTIG_ANALYSIERT
+mindfoundry/reports/eval-baseline-500.json | FERTIG_ANALYSIERT
+mindfoundry/reports/live-ops-summary.txt | FERTIG_ANALYSIERT
+mindfoundry/requirements.txt | FERTIG_ANALYSIERT
+mindfoundry/scripts/demo_walkthrough.py | FERTIG_ANALYSIERT
+mindfoundry/scripts/discord_utils.py | FERTIG_ANALYSIERT
+mindfoundry/scripts/drip_discord_incidents.py | FERTIG_ANALYSIERT
+mindfoundry/scripts/ensure_hotelsim_api.py | FERTIG_ANALYSIERT
+mindfoundry/scripts/export_event_stream.py | FERTIG_ANALYSIERT
+mindfoundry/scripts/nemotron_rag_bridge.py | FERTIG_ANALYSIERT
+mindfoundry/scripts/prepare_workspace_imports.py | FERTIG_ANALYSIERT
+mindfoundry/scripts/provision_workspace.py | FERTIG_ANALYSIERT
+mindfoundry/scripts/seed_discord_incidents.py | FERTIG_ANALYSIERT
+mindfoundry/scripts/update_replicants_from_discord.py | FERTIG_ANALYSIERT
+mindfoundry/tests/test_live_ops.py | FERTIG_ANALYSIERT
+mindfoundry/tests/test_sim.py | FERTIG_ANALYSIERT
+mindfoundry/ui/index.html | FERTIG_ANALYSIERT
+mindfoundry/workspace-imports/groups.json | FERTIG_ANALYSIERT
+mindfoundry/workspace-imports/users-google-admin-import.csv | FERTIG_ANALYSIERT
+
+Hinweis zu den 3 PNG-Assets (docs/dashboard-screenshot.png, docs/mindfoundry-architecture.png, docs/mindfoundry-preview.png): Pixelinhalt nicht maschinenlesbar; analysiert gemäß Vorgabe als Nicht-analysierbarer-Binärinhalt mit Nachweis Hash (source-checksum.md), Typ (file: PNG, Abmessungen, Bit-Tiefe), Metadaten (Bytes) und Verwendung (abgeleitet aus SVG-Quelle/README/SUBMISSION-PACKAGE.md).
